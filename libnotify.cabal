@@ -38,7 +38,7 @@ library
       base         >= 4.5 && < 5
     , bytestring   >= 0.9
     , glib         >= 0.12.3
-    , gtk          >= 0.12.3
+    , gtk3         >= 0.12.5
   exposed-modules:
     Libnotify
     Libnotify.C.Notify
